@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mishmar padel league//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:פאדל משמר 3
+X-WR-TIMEZONE:Asia/Jerusalem
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:h1-38c304b793-m3@mishmar-padel
+DTSTAMP:20261213T170000Z
+DTSTART:20261213T170000Z
+DTEND:20261213T190000Z
+SUMMARY:פאדל: קבוצת לובינסקי נגד משמר 3
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 1.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: קבוצת לובינסקי נגד משמר 3
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-c23ea4d05e-m3@mishmar-padel
+DTSTAMP:20270107T170000Z
+DTSTART:20270107T170000Z
+DTEND:20270107T190000Z
+SUMMARY:פאדל: משמר 3 נגד חברת חשמל מרחב דרום
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 2.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 3 נגד חברת חשמל מרחב דרום
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-8b449ce5c3-m3@mishmar-padel
+DTSTAMP:20270321T170000Z
+DTSTART:20270321T170000Z
+DTEND:20270321T190000Z
+SUMMARY:פאדל: תומר - חברה ממשלתית בע"מ נגד משמ
+ ר 3
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 3.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: תומר - חברה ממשלתית בע"מ נגד מ
+ שמר 3
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-fd69961440-m3@mishmar-padel
+DTSTAMP:20270204T170000Z
+DTSTART:20270204T170000Z
+DTEND:20270204T190000Z
+SUMMARY:פאדל: משמר 3 נגד מור בית השקעות
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 5.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 3 נגד מור בית השקעות
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-2eac736408-m3@mishmar-padel
+DTSTAMP:20270218T170000Z
+DTSTART:20270218T170000Z
+DTEND:20270218T190000Z
+SUMMARY:פאדל: אנפריים נגד משמר 3
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 6.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: אנפריים נגד משמר 3
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-745b5273cf-m3@mishmar-padel
+DTSTAMP:20270314T170000Z
+DTSTART:20270314T170000Z
+DTEND:20270314T190000Z
+SUMMARY:פאדל: משמר 3 נגד משטרת ישראל מטאר
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 7.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 3 נגד משטרת ישראל מטאר
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-2cd4a939ec-m3@mishmar-padel
+DTSTAMP:20270330T160000Z
+DTSTART:20270330T160000Z
+DTEND:20270330T180000Z
+SUMMARY:פאדל: אלישרא 1 פאדל נגד משמר 3
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 8.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: אלישרא 1 פאדל נגד משמר 3
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h1-f5988f11dd-m3@mishmar-padel
+DTSTAMP:20270411T160000Z
+DTSTART:20270411T160000Z
+DTEND:20270411T180000Z
+SUMMARY:פאדל: משמר 3 נגד אל - על 1
+LOCATION:פאדל סנטר ראשון לציון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 1\, מחזור 9.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 3 נגד אל - על 1
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

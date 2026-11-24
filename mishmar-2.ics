@@ -1,0 +1,182 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mishmar padel league//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:פאדל משמר 2
+X-WR-TIMEZONE:Asia/Jerusalem
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:h2-6372d43d2f-m2@mishmar-padel
+DTSTAMP:20261203T170000Z
+DTSTART:20261203T170000Z
+DTEND:20261203T190000Z
+SUMMARY:פאדל: פלאפון נגד משמר 2
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 1.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: פלאפון נגד משמר 2
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-471c4c3df6-m2@mishmar-padel
+DTSTAMP:20261228T170000Z
+DTSTART:20261228T170000Z
+DTEND:20261228T190000Z
+SUMMARY:פאדל: משמר 2 נגד בנק לאומי
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 2.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 2 נגד בנק לאומי
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-f8751beae7-m2@mishmar-padel
+DTSTAMP:20270107T170000Z
+DTSTART:20270107T170000Z
+DTEND:20270107T190000Z
+SUMMARY:פאדל: אל על 2 נגד משמר 2
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 3.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: אל על 2 נגד משמר 2
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-4e97514258-m2@mishmar-padel
+DTSTAMP:20270209T170000Z
+DTSTART:20270209T170000Z
+DTEND:20270209T190000Z
+SUMMARY:פאדל: משמר 2 נגד בנק הבינלאומי 1
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 4.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 2 נגד בנק הבינלאומי 1
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-a7ad02c1b2-m2@mishmar-padel
+DTSTAMP:20270211T170000Z
+DTSTART:20270211T170000Z
+DTEND:20270211T190000Z
+SUMMARY:פאדל: נתיבי ישראל נגד משמר 2
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 5.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: נתיבי ישראל נגד משמר 2
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-52a4c4b56b-m2@mishmar-padel
+DTSTAMP:20270225T170000Z
+DTSTART:20270225T170000Z
+DTEND:20270225T190000Z
+SUMMARY:פאדל: משמר 2 נגד אלישרא 2 פאדל
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 6.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 2 נגד אלישרא 2 פאדל
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-dc58c33ba3-m2@mishmar-padel
+DTSTAMP:20270315T170000Z
+DTSTART:20270315T170000Z
+DTEND:20270315T190000Z
+SUMMARY:פאדל: נביוס - Nebius פאדל נגד משמר 2
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 7.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: נביוס - Nebius פאדל נגד משמר 2
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-edd6f5d83a-m2@mishmar-padel
+DTSTAMP:20270413T160000Z
+DTSTART:20270413T160000Z
+DTEND:20270413T180000Z
+SUMMARY:פאדל: משמר 2 נגד משמר 1
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 9.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 2 נגד משמר 1
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-2f992cbb0d-m2@mishmar-padel
+DTSTAMP:20270420T160000Z
+DTSTART:20270420T160000Z
+DTEND:20270420T180000Z
+SUMMARY:פאדל: אפי נכסים נגד משמר 2
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 10.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: אפי נכסים נגד משמר 2
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:h2-b40b68091e-m2@mishmar-padel
+DTSTAMP:20270622T160000Z
+DTSTART:20270622T160000Z
+DTEND:20270622T180000Z
+SUMMARY:פאדל: משמר 2 נגד רשות שדות התעופה - פאד
+ ל
+LOCATION:קאנטרי חולון\, רחוב הלוחמים 30\, חולון
+DESCRIPTION:ליגת מקומות העבודה של הפועל ת"א\, בי
+ ת ערב 2\, מחזור 11.\nלהגיע עם כרטיס ליגה דיגי
+ טלי בטלפון ובתלבושת מתאימה. איחור של יות
+ ר מ־15 דקות הוא הפסד טכני.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:פאדל: משמר 2 נגד רשות שדות התעופה - פ
+ אדל
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
