@@ -15,3 +15,5 @@ They hold only the public league schedule (dates, times, courts, team names), ge
 
 Subscribe with the raw URL, e.g. `https://raw.githubusercontent.com/isashar24-cohen/padel-hamishmar-calendar/main/mishmar-1.ics`.
 The files are updated automatically when the league changes the schedule; do not edit them by hand.
+
+Calendar files are regenerated at 07:52 and 22:52 Israel time, about ten minutes after the league schedule is synced.
